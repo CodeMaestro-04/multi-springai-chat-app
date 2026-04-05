@@ -19,13 +19,16 @@ A full-stack AI chat application that integrates OpenAI, Ollama, and Anthropic t
 npm install
 npm run dev
 
-
+```
 2️⃣ Backend
+```
 Run the Spring Boot application from your IDE
-
+```
 3️⃣ Ollama (Local AI)
+```
 ollama serve
 
+```
 ⚠️ Note
 API keys for OpenAI and Anthropic are not included due to security reasons
 You can add your own keys in application.properties if needed
