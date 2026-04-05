@@ -29,6 +29,7 @@ Run the Spring Boot application from your IDE
 ollama serve
 
 ```
+
 ⚠️ Note
 API keys for OpenAI and Anthropic are not included due to security reasons
 You can add your own keys in application.properties if needed
