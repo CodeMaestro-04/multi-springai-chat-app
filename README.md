@@ -20,7 +20,6 @@ npm install
 npm run dev
 
 
-`````````````````````````````````````````````
 2️⃣ Backend
 Run the Spring Boot application from your IDE
 
